@@ -2,5 +2,3 @@
 STAT 545 Demo
 Jacqueline Blunt 
 Rocket Appliantist
-
-fun times 
