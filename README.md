@@ -2,4 +2,4 @@
 STAT 545 Demo
 Jacqueline Blunt 
 Smartypants McGee
-Sneaky answer
+I like pancakes
